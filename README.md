@@ -1,0 +1,2 @@
+# mAmU
+Master mood setter
